@@ -3,7 +3,7 @@ package ylauner.myfirstapp2;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-//ylauner test
+
 public class MainActivity extends Activity {
 
     @Override
